@@ -1,0 +1,13 @@
+/home/bitrock/rubystack/ruby/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20150224-9007-15aa7iw
+installing default fastfilereaderext libraries

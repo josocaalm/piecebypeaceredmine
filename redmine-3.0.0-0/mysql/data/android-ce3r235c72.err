@@ -1,0 +1,129 @@
+150307  1:40:07 [Note] Plugin 'FEDERATED' is disabled.
+150307  1:40:07 InnoDB: The InnoDB memory heap is disabled
+150307  1:40:07 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150307  1:40:07 InnoDB: Compressed tables use zlib 1.2.3
+150307  1:40:07 InnoDB: Initializing buffer pool, size = 128.0M
+150307  1:40:07 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+150307  1:40:07  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+150307  1:40:07  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+150307  1:40:07  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+150307  1:40:08  InnoDB: Waiting for the background threads to start
+150307  1:40:09 InnoDB: 5.5.42 started; log sequence number 0
+150307  1:40:09 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150307  1:40:09 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150307  1:40:09 [Note] Server socket created on IP: '127.0.0.1'.
+150307  1:40:09 [Note] Event Scheduler: Loaded 0 events
+150307  1:40:09 [Note] C:\Bitnami\REDMIN~1.0-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150307  1:40:44 [Note] C:\Bitnami\REDMIN~1.0-0\mysql\bin\mysqld.exe: Normal shutdown
+
+150307  1:40:44 [Note] Event Scheduler: Purging the queue. 0 events
+150307  1:40:44  InnoDB: Starting shutdown...
+150307  1:40:45  InnoDB: Shutdown completed; log sequence number 1595675
+150307  1:40:45 [Note] C:\Bitnami\REDMIN~1.0-0\mysql\bin\mysqld.exe: Shutdown complete
+
+150307  1:41:20 [Note] Plugin 'FEDERATED' is disabled.
+150307  1:41:20 InnoDB: The InnoDB memory heap is disabled
+150307  1:41:20 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150307  1:41:20 InnoDB: Compressed tables use zlib 1.2.3
+150307  1:41:20 InnoDB: Initializing buffer pool, size = 128.0M
+150307  1:41:20 InnoDB: Completed initialization of buffer pool
+150307  1:41:20 InnoDB: highest supported file format is Barracuda.
+150307  1:41:20  InnoDB: Waiting for the background threads to start
+150307  1:41:21 InnoDB: 5.5.42 started; log sequence number 1595675
+150307  1:41:21 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150307  1:41:21 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150307  1:41:21 [Note] Server socket created on IP: '127.0.0.1'.
+150307  1:41:21 [Note] Event Scheduler: Loaded 0 events
+150307  1:41:21 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150307  9:10:17 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Normal shutdown
+
+150307  9:10:17 [Note] Event Scheduler: Purging the queue. 0 events
+150307  9:10:19 [Warning] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Forcing close of thread 5  user: 'bitnami'
+
+150307  9:10:19 [Warning] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Forcing close of thread 4  user: 'bitnami'
+
+150307  9:10:19  InnoDB: Starting shutdown...
+150307  9:10:19  InnoDB: Shutdown completed; log sequence number 3524180
+150307  9:10:19 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Shutdown complete
+
+150307  9:12:00 [Note] Plugin 'FEDERATED' is disabled.
+150307  9:12:01 InnoDB: The InnoDB memory heap is disabled
+150307  9:12:01 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150307  9:12:01 InnoDB: Compressed tables use zlib 1.2.3
+150307  9:12:04 InnoDB: Initializing buffer pool, size = 128.0M
+150307  9:12:04 InnoDB: Completed initialization of buffer pool
+150307  9:12:04 InnoDB: highest supported file format is Barracuda.
+150307  9:12:05  InnoDB: Waiting for the background threads to start
+150307  9:12:06 InnoDB: 5.5.42 started; log sequence number 3524180
+150307  9:12:07 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150307  9:12:07 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150307  9:12:07 [Note] Server socket created on IP: '127.0.0.1'.
+150307  9:12:11 [Note] Event Scheduler: Loaded 0 events
+150307  9:12:13 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150307 13:55:47 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Normal shutdown
+
+150307 13:55:47 [Note] Event Scheduler: Purging the queue. 0 events
+150307 13:55:49 [Warning] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Forcing close of thread 2  user: 'bitnami'
+
+150307 13:55:49 [Warning] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Forcing close of thread 1  user: 'bitnami'
+
+150307 13:55:49  InnoDB: Starting shutdown...
+150307 13:55:50  InnoDB: Shutdown completed; log sequence number 3613483
+150307 13:55:50 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Shutdown complete
+
+150308 13:27:56 [Note] Plugin 'FEDERATED' is disabled.
+150308 13:27:57 InnoDB: The InnoDB memory heap is disabled
+150308 13:27:57 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150308 13:27:57 InnoDB: Compressed tables use zlib 1.2.3
+150308 13:27:57 InnoDB: Initializing buffer pool, size = 128.0M
+150308 13:27:57 InnoDB: Completed initialization of buffer pool
+150308 13:27:58 InnoDB: highest supported file format is Barracuda.
+150308 13:28:02  InnoDB: Waiting for the background threads to start
+150308 13:28:03 InnoDB: 5.5.42 started; log sequence number 3613483
+150308 13:28:04 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150308 13:28:05 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150308 13:28:05 [Note] Server socket created on IP: '127.0.0.1'.
+150308 13:28:09 [Note] Event Scheduler: Loaded 0 events
+150308 13:28:09 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150308 20:40:00 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Normal shutdown
+
+150308 20:40:00 [Note] Event Scheduler: Purging the queue. 0 events
+150308 20:40:03 [Warning] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Forcing close of thread 2  user: 'bitnami'
+
+150308 20:40:03 [Warning] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Forcing close of thread 1  user: 'bitnami'
+
+150308 20:40:03  InnoDB: Starting shutdown...
+150308 20:40:04  InnoDB: Shutdown completed; log sequence number 3625677
+150308 20:40:05 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: Shutdown complete
+
+150308 21:15:23 [Note] Plugin 'FEDERATED' is disabled.
+150308 21:15:29 InnoDB: The InnoDB memory heap is disabled
+150308 21:15:29 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150308 21:15:29 InnoDB: Compressed tables use zlib 1.2.3
+150308 21:15:29 InnoDB: Initializing buffer pool, size = 128.0M
+150308 21:15:29 InnoDB: Completed initialization of buffer pool
+150308 21:15:29 InnoDB: highest supported file format is Barracuda.
+150308 21:15:33  InnoDB: Waiting for the background threads to start
+150308 21:15:34 InnoDB: 5.5.42 started; log sequence number 3625677
+150308 21:15:34 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150308 21:15:34 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150308 21:15:34 [Note] Server socket created on IP: '127.0.0.1'.
+150308 21:15:39 [Note] Event Scheduler: Loaded 0 events
+150308 21:15:39 [Note] C:\Bitnami\redmine-3.0.0-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)

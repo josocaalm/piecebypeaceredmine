@@ -1,0 +1,25 @@
+/home/bitrock/rubystack/ruby/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling rc_markdown.c
+compiling html_smartypants.c
+compiling rc_render.c
+compiling houdini_href_e.c
+compiling autolink.c
+compiling stack.c
+compiling buffer.c
+compiling html.c
+html.c: In function ‘rndr_header’:
+html.c:290: warning: passing argument 1 of ‘header_anchor’ discards qualifiers from pointer target type
+html.c: In function ‘toc_header’:
+html.c:638: warning: passing argument 1 of ‘header_anchor’ discards qualifiers from pointer target type
+compiling houdini_html_e.c
+compiling markdown.c
+linking shared-object redcarpet.so
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 redcarpet.so ./.gem.20150224-9007-gwckmc
+installing default redcarpet libraries
